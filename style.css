@@ -29,10 +29,4 @@ p {
   border-bottom: 1px dotted #ccc;
 }
 
-.sticky {
-  background:green;
-  position:sticky;
-  top: 0;
-}
-
  
