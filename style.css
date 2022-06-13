@@ -30,6 +30,10 @@ p {
   background:#597492;
   position:sticky;
   top: 0;
+}
+
+#about {
   display:flex;
   margin:6px;
 }
+
