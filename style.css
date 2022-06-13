@@ -36,3 +36,7 @@ p {
   margin:6px;
 }
 
+.img-container {
+  float:right;
+  margin:10px;
+}
