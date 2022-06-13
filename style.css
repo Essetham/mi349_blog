@@ -44,7 +44,7 @@ p {
   margin-bottom:10px;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 400px) {
   h1 {
     background: red;
   }
