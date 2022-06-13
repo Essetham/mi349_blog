@@ -27,9 +27,8 @@ p {
 }
 
 .sticky {
-  color: White;
   background:#597492;
   position:sticky;
   top: 0;
-  display:flex
+  display:flex;
 }
