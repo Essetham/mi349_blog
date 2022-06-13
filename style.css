@@ -33,8 +33,7 @@ p {
 }
 
 #about {
-  display:inline-flex;
-  gap: 6px;
+  gap:6px;
   margin:6px;
 }
 
