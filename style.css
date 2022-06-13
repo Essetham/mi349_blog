@@ -21,6 +21,7 @@ p {
 #blog {
   border-top: 1px dotted #ccc;
   display:flex;
+  flex-direction: column;
 }
 
 .blog-post {
@@ -31,5 +32,6 @@ p {
   background:#597492;
   position:sticky;
   top: 0;
-  display:flex;
+  display:inline-flex;
+  margin: 6px;
 }
